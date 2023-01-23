@@ -1,0 +1,15 @@
+C:\Users\rusla\Documents\examples\examples007_dz\bin\Debug\net7.0\examples007_dz.exe
+C:\Users\rusla\Documents\examples\examples007_dz\bin\Debug\net7.0\examples007_dz.deps.json
+C:\Users\rusla\Documents\examples\examples007_dz\bin\Debug\net7.0\examples007_dz.runtimeconfig.json
+C:\Users\rusla\Documents\examples\examples007_dz\bin\Debug\net7.0\examples007_dz.dll
+C:\Users\rusla\Documents\examples\examples007_dz\bin\Debug\net7.0\examples007_dz.pdb
+C:\Users\rusla\Documents\examples\examples007_dz\obj\Debug\net7.0\examples007_dz.csproj.AssemblyReference.cache
+C:\Users\rusla\Documents\examples\examples007_dz\obj\Debug\net7.0\examples007_dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Documents\examples\examples007_dz\obj\Debug\net7.0\examples007_dz.AssemblyInfoInputs.cache
+C:\Users\rusla\Documents\examples\examples007_dz\obj\Debug\net7.0\examples007_dz.AssemblyInfo.cs
+C:\Users\rusla\Documents\examples\examples007_dz\obj\Debug\net7.0\examples007_dz.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Documents\examples\examples007_dz\obj\Debug\net7.0\examples007_dz.dll
+C:\Users\rusla\Documents\examples\examples007_dz\obj\Debug\net7.0\refint\examples007_dz.dll
+C:\Users\rusla\Documents\examples\examples007_dz\obj\Debug\net7.0\examples007_dz.pdb
+C:\Users\rusla\Documents\examples\examples007_dz\obj\Debug\net7.0\examples007_dz.genruntimeconfig.cache
+C:\Users\rusla\Documents\examples\examples007_dz\obj\Debug\net7.0\ref\examples007_dz.dll
