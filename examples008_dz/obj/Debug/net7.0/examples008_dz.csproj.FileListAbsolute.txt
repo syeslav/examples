@@ -1,0 +1,5 @@
+C:\Users\rusla\Documents\examples\examples008_dz\obj\Debug\net7.0\examples008_dz.csproj.AssemblyReference.cache
+C:\Users\rusla\Documents\examples\examples008_dz\obj\Debug\net7.0\examples008_dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Documents\examples\examples008_dz\obj\Debug\net7.0\examples008_dz.AssemblyInfoInputs.cache
+C:\Users\rusla\Documents\examples\examples008_dz\obj\Debug\net7.0\examples008_dz.AssemblyInfo.cs
+C:\Users\rusla\Documents\examples\examples008_dz\obj\Debug\net7.0\examples008_dz.csproj.CoreCompileInputs.cache
